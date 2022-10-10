@@ -1,0 +1,42 @@
+#sum{
+  color: red;
+}
+#sub{
+  color: green;
+}
+#multi, #square{
+  color: #a87d4f;
+}
+#div{
+  color: #6fa0bf;
+}
+#triangle{
+  color: #a27dab;
+}
+#rectangle{
+  color: #78deab;
+}
+span{
+  padding-left: 60px;
+}
+.Hisab{
+  width: 250px;
+  margin: 50px auto;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+}
+.Hisab h3{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  padding: 20px 20px;
+  background: green;
+  color: #fff;
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 25px;
+  border-radius: 10px;
+}
